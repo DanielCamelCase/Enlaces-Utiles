@@ -194,6 +194,65 @@ https://pentestlab.blog/2017/04/24/windows-kernel-exploits/
 https://github.com/HyperSine/Windows10-CustomKernelSigners
 
 
+## Prevenir ataques a AD 
+
+https://kinomakino.blogspot.com/2020/01/detectar-enumeracion-de-usuarios-en.html?m=1
+
+https://www.telinsec.com/ataques_contra_windowsAD_y_como_detectarlos.html
+
+### Windows Active Directory ( AD) 
+
+https://adsecurity.org/?p=2362
+
+https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
+
+https://intrinium.com/smb-relay-attack-tutorial/
+
+https://blog.stealthbits.com/extracting-service-account-passwords-with-kerberoasting/
+
+https://resources.infosecinstitute.com/pass-hash-pass-ticket-no-pain/#gref
+
+https://www.tarlogic.com/blog/tickets-de-kerberos-explotacion/
+
+https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/
+
+https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/
+
+https://github.com/PaulSec/awesome-windows-domain-hardening
+
+https://dirkjanm.io/abusing-exchange-one-api-call-away-from-domain-admin/
+
+https://blog.ropnop.com/extracting-hashes-and-domain-info-from-ntds-dit/
+
+https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/
+
+https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/
+
+https://www.secureauth.com/blog/playing-relayed-credentials
+
+https://www.tarlogic.com/en/blog/how-to-attack-kerberos/
+
+https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/
+
+https://www.hackingarticles.in/3-ways-extract-password-hashes-from-ntds-dit/
+
+https://github.com/l0ss/Grouper2
+
+https://github.com/S3cur3Th1sSh1t/WinPwn
+
+https://medium.com/@vignesh4303/windows-active-directory-reconnaissance-48c2bd70388
+
+https://github.com/jnqpblc/SharpSpray
+
+https://www.ivoidwarranties.tech/posts/pentesting-tuts/responder/cheatsheet/
+
+https://www.4armed.com/blog/llmnr-nbtns-poisoning-using-responder/
+
+https://www.kitploit.com/2020/01/credninja-multithreaded-tool-designed.html
+
+https://github.com/hausec/ADAPE-Script
 
 ### Windows Post-Exploitation
 
