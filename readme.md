@@ -59,7 +59,7 @@ https://samsclass.info/127/proj/vuln-server.htm
 
 http://www.bulbsecurity.com/finding-bad-characters-with-immunity-debugger-and-mona-py/
 
-## Local File Inclusion/Remote File Inclusion (LFI/RFI)
+### Local File Inclusion/Remote File Inclusion (LFI/RFI)
 
 http://www.grobinson.me/single-line-php-script-to-gain-shell/
 
@@ -159,6 +159,51 @@ http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.h
 
 http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
 
+
+### Windows Post-Exploitation
+
+https://github.com/gentilkiwi/mimikatz/releases/
+
+https://github.com/gentilkiwi/mimikatz/wiki/module-~-sekurlsa
+
+http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
+
+https://github.com/PowerShellMafia/PowerSploit
+
+https://github.com/gentilkiwi/mimikatz/releases
+
+http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
+
+https://github.com/mubix/post-exploitation/wiki/windows
+
+### Windows Privilege Escalation
+
+http://www.fuzzysecurity.com/tutorials/16.html
+
+https://toshellandback.com/2015/11/24/ms-priv-esc/
+
+https://github.com/pentestmonkey/windows-privesc-check
+
+https://blog.gdssecurity.com/labs/2014/7/11/introducing-windows-exploit-suggester.html
+
+https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+
+https://github.com/foxglovesec/RottenPotato
+
+http://www.exumbraops.com/penetration-testing-102-windows-privilege-escalation-cheatsheet/
+
+https://www.youtube.com/watch?v=PC_iMqiuIRQ
+
+https://www.youtube.com/watch?v=kMG8IsCohHA&feature=youtu.be
+
+https://github.com/PowerShellMafia/PowerSploit
+
+http://www.blackhillsinfosec.com/?p=5824
+
+https://www.commonexploits.com/unquoted-service-paths/
+
+https://github.com/abatchy17/WindowsExploits
+
 ### Linux Post-Exploitation
 
 https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
@@ -191,6 +236,90 @@ http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/#
 
 https://www.rebootuser.com/?p=1758
 
+### Port Scanning
+https://highon.coffee/blog/nmap-cheat-sheet/
+
+https://nmap.org/nsedoc/
+
+https://github.com/superkojiman/onetwopunch
+
+http://kalilinuxtutorials.com/unicornscan/
+
+### Password Cracking
+
+https://uwnthesis.wordpress.com/2013/08/07/kali-how-to-crack-passwords-using-hashcat/
+
+https://hashkiller.co.uk/
+
+https://linuxconfig.org/password-cracking-with-john-the-ripper-on-linux
+
+http://www.rarpasswordcracker.com/
+
+### Pivoting
+
+https://www.offensive-security.com/metasploit-unleashed/portfwd/
+
+https://www.offensive-security.com/metasploit-unleashed/proxytunnels/
+
+https://github.com/rofl0r/proxychains-ng
+
+https://www.sans.org/reading-room/whitepapers/testing/tunneling-pivoting-web-application-penetration-testing-36117
+
+https://pentest.blog/explore-hidden-networks-with-double-pivoting/
+
+https://blog.techorganic.com/2012/10/10/introduction-to-pivoting-part-2-proxychains/
+
+https://www.cobaltstrike.com/help-socks-proxy-pivoting
+
+https://sathisharthars.com/2014/07/07/evade-windows-firewall-by-ssh-tunneling-using-metasploit/
+
+https://artkond.com/2017/03/23/pivoting-guide/
+
+### Remote Desktop Protocol (RDP)
+
+https://serverfault.com/questions/148731/enabling-remote-desktop-with-command-prompt
+
+https://serverfault.com/questions/200417/ideal-settings-for-rdesktop
+
+### Samba (SMB)
+
+https://pen-testing.sans.org/blog/2013/07/24/plundering-windows-account-info-via-authenticated-smb-sessions
+
+http://www.blackhillsinfosec.com/?p=4645
+
+### TTY Shell Spawning
+
+http://netsec.ws/?p=337
+
+https://github.com/infodox/python-pty-shells
+
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+
+### Explotación web
+
+http://www.studfiles.ru/preview/2083097/page:7/
+
+http://126kr.com/article/3vbt0k8fxwh
+
+http://meyerweb.com/eric/tools/dencoder/
+
+### SQL Injection
+
+http://www.sqlinjection.net/category/attacks/
+
+http://sechow.com/bricks/docs/login-1.html
+
+https://www.exploit-db.com/papers/12975/
+
+https://websec.wordpress.com/2010/12/04/sqli-filter-evasion-cheat-sheet-mysql/
+
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
+https://github.com/cr0hn/nosqlinjection_wordlists
+
+https://blog.scrt.ch/2013/03/24/mongodb-0-day-ssji-to-rce/
+
+https://websec.ca/kb/sql_injection#MSSQL_Default_Databases
 
 ## HTB Maquinas resueltas 
 
