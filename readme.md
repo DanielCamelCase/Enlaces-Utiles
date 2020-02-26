@@ -9,5 +9,5 @@ tips aplicables a todo - https://medium.com/bug-bounty-hunting/beginner-tips-to-
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 ## HTB Maquinas resueltas 
-https://sckull.github.io/tags/hackthebox/
-https://0xdf.gitlab.io/
+1- https://sckull.github.io/tags/hackthebox/
+2- https://0xdf.gitlab.io/
