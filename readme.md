@@ -3,6 +3,8 @@
 
 ### Pentest 
 
+Pentesting Cheatsheets - https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets
+
 Pentesting Cheatsheets - https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
 tips tipicos pentest   - https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
@@ -388,7 +390,25 @@ http://meyerweb.com/eric/tools/dencoder/
 
 https://github.com/anouarbensaad/vulnx
 
-### SQL Injection
+https://medium.com/bugbountywriteup/bugbounty-i-dont-need-your-current-password-to-login-into-your-account-how-could-i-e51a945b083d
+
+https://medium.com/@ehsahil/recon-my-way-82b7e5f62e21
+
+https://github.com/m4ll0k/WPSeku
+
+https://github.com/swisskyrepo/Wordpresscan
+
+https://github.com/rastating/wordpress-exploit-framework
+
+https://github.com/epinna/weevely3
+
+https://github.com/urbanadventurer/WhatWeb
+
+https://cybexsec.es/evasion-de-autenticacion-en-aplicaciones-web-mediante-un-bug-en-la-redireccion/
+
+
+
+### SQL Injection y XSS 
 
 http://www.sqlinjection.net/category/attacks/
 
@@ -405,6 +425,16 @@ https://github.com/cr0hn/nosqlinjection_wordlists
 https://blog.scrt.ch/2013/03/24/mongodb-0-day-ssji-to-rce/
 
 https://websec.ca/kb/sql_injection#MSSQL_Default_Databases
+
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
+https://medium.com/bugbountywriteup/sqlmaps-os-shell-backdooring-website-with-weevely-8cb6dcf17fa4
+
+https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3
+
+https://medium.com/ctf-writeups/union-sqli-challenges-zixem-write-up-4e74ad4e88b4
+
+https://medium.com/@int0x33/day-35-xss-payloads-217ab6c6ead7
 
 ### Steganography
 
