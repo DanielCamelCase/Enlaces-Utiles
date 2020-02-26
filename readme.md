@@ -89,7 +89,7 @@ https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/
 
 https://github.com/tennc/fuzzdb/blob/master/dict/BURP-PayLoad/LFI/LFI-FD-check.txt
 
-## File Transfer
+### File Transfer
 
 https://insekurity.wordpress.com/2012/05/15/file-transfer/
 
@@ -105,12 +105,13 @@ https://curl.haxx.se/docs/manpage.html
 
 https://linux.die.net/man/1/wget
 
-## Fuzzing Payloads
+### Fuzzing Payloads
+
 https://github.com/fuzzdb-project/fuzzdb
 
 https://github.com/danielmiessler/SecLists
 
-## General Notes
+### General Notes
 
 http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
 
@@ -146,7 +147,8 @@ https://blog.propriacausa.de/wp-content/uploads/2016/07/oscp_notes.html
 
 https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
 
-## Jailed Shell Escape
+### Jailed Shell Escape
+
 http://netsec.ws/?p=337
 
 https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
@@ -157,7 +159,7 @@ http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.h
 
 http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
 
-## Linux Post-Exploitation
+### Linux Post-Exploitation
 
 https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
 
@@ -165,10 +167,33 @@ https://github.com/huntergregal/mimipenguin
 
 https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
 
-## Linux Privilege Escalation
+### Linux Privilege Escalation
+
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+https://www.kernel-exploits.com/
+
+https://github.com/rebootuser/LinEnum
+
+https://github.com/PenturaLabs/Linux_Exploit_Suggester
+
+https://www.securitysift.com/download/linuxprivchecker.py
+
+http://pentestmonkey.net/tools/audit/unix-privesc-check
+
+https://github.com/mzet-/linux-exploit-suggester
+
+http://www.darknet.org.uk/2015/06/unix-privesc-check-unixlinux-user-privilege-escalation-scanner/
+
+https://www.youtube.com/watch?v=dk2wsyFiosg
+
+http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/#gref
+
+https://www.rebootuser.com/?p=1758
 
 
 ## HTB Maquinas resueltas 
+
 https://sckull.github.io/tags/hackthebox/
 
 https://0xdf.gitlab.io/
