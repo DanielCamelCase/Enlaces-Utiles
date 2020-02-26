@@ -1,7 +1,7 @@
 
 ## Sitios Web de Referencia o Consulta 
 
-### Pentest 
+#### Pentest 
 
 Pentesting Cheatsheets - https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
@@ -10,7 +10,7 @@ tips aplicables a todo - https://medium.com/bug-bounty-hunting/beginner-tips-to-
 Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
 
-### Information Gathering/Reconnaissance
+#### Information Gathering/Reconnaissance
 
 https://github.com/leebaird/discover
 
@@ -25,7 +25,7 @@ http://www.0daysecurity.com/penetration-testing/enumeration.html
 http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
 
 
-### WebShells and Backdoors  
+#### WebShells and Backdoors  
 
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
