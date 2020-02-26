@@ -11,6 +11,8 @@ Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
 Recopilacion videos(EN)- https://www.youtube.com/user/webpwnized/playlists
 
+ Windows CheatSheet    - https://morph3sec.com/2019/07/16/Windows-Red-Team-Cheat-Sheet/
+
 ### Relativos a OSCP ( No Automatizacion de procesos )
 
 https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
@@ -60,6 +62,8 @@ http://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-
 
 http://securityweekly.com/2011/10/23/python-one-line-shell-code/
 
+https://medium.com/@Bank_Security/undetectable-c-c-reverse-shells-fab4c0ec4f15
+
 ### Buffers Overflows
 
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
@@ -71,6 +75,8 @@ http://justpentest.blogspot.ca/2015/07/minishare1.4.1-bufferoverflow.html
 https://samsclass.info/127/proj/vuln-server.htm
 
 http://www.bulbsecurity.com/finding-bad-characters-with-immunity-debugger-and-mona-py/
+
+https://www.youtube.com/watch?v=PQJn4s4E8Os - Desarrollo de un exploit con minishare 
 
 ### Local File Inclusion/Remote File Inclusion (LFI/RFI)
 
@@ -175,6 +181,18 @@ http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.h
 
 http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
 
+### Windows Kernel 
+
+https://github.com/AxtMueller/Windows-Kernel-Explorer
+
+https://github.com/rabbitstack/fibratus
+
+https://pentestlab.blog/2017/04/24/windows-kernel-exploits/
+
+https://github.com/HyperSine/Windows10-CustomKernelSigners
+
+
+
 ### Windows Post-Exploitation
 
 https://github.com/gentilkiwi/mimikatz/releases/
@@ -187,9 +205,39 @@ https://github.com/PowerShellMafia/PowerSploit
 
 https://github.com/gentilkiwi/mimikatz/releases
 
-http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
+https://blog.ropnop.com/using-credentials-to-own-windows-boxes/
+
+https://github.com/ankh2054/windows-pentest
 
 https://github.com/mubix/post-exploitation/wiki/windows
+
+https://www.ivoidwarranties.tech/posts/pentesting-tuts/cme/crackmapexec-cheatsheet/
+
+https://gist.github.com/netbiosX/ee35fcd3722e401a38136cff7b751d79
+
+https://medium.com/@canavaroxum/xxe-on-windows-system-then-what-76d571d66745
+
+https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/
+
+https://pentestlab.blog/category/post-exploitation/
+
+https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/
+
+https://medium.com/@int0x33/day-24-windows-post-exploitation-shells-and-file-transfer-with-netcat-for-windows-a2ddc3557403
+
+https://github.com/ollypwn/cve-2020-0601
+
+https://github.com/decoder-it/Hyper-V-admin-EOP/
+
+https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-Runas.ps1
+
+https://github.com/rootm0s/WinPwnage
+
+https://www.tiraniddo.dev/2020/02/dll-import-redirection-in-windows-10_8.html?m=1
+
+https://github.com/bitsadmin/fakelogonscreen
+
+https://pentestlab.blog/2020/02/10/credential-access-password-filter-dll/
 
 ### Windows Privilege Escalation
 
@@ -224,6 +272,16 @@ http://it-ovid.blogspot.com/2012/02/windows-privilege-escalation.html
 https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
 
 https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+
+https://foxglovesecurity.com/2017/08/25/abusing-token-privileges-for-windows-local-privilege-escalation/
+
+https://medium.com/@Bank_Security/how-to-running-powershell-commands-without-powershell-exe-a6a19595f628
+
+https://cxsecurity.com/issue/WLB-2020010165
+
+https://github.com/gtworek/Priv2Admin
+
+
 
 ### Linux Post-Exploitation
 
@@ -276,6 +334,8 @@ https://linuxconfig.org/password-cracking-with-john-the-ripper-on-linux
 
 http://www.rarpasswordcracker.com/
 
+http://icyberchef.com
+
 ### Pivoting
 
 https://www.offensive-security.com/metasploit-unleashed/portfwd/
@@ -308,6 +368,8 @@ https://pen-testing.sans.org/blog/2013/07/24/plundering-windows-account-info-via
 
 http://www.blackhillsinfosec.com/?p=4645
 
+https://pentestlab.blog/tag/smb-relay/
+
 ### TTY Shell Spawning
 
 http://netsec.ws/?p=337
@@ -323,6 +385,8 @@ http://www.studfiles.ru/preview/2083097/page:7/
 http://126kr.com/article/3vbt0k8fxwh
 
 http://meyerweb.com/eric/tools/dencoder/
+
+https://github.com/anouarbensaad/vulnx
 
 ### SQL Injection
 
@@ -345,6 +409,12 @@ https://websec.ca/kb/sql_injection#MSSQL_Default_Databases
 ### Steganography
 
 http://0xc0ffee.io/blog/tu-ctf2017-worth-a-thousand-words
+
+
+### Redes Locales 
+
+https://www.hackingarticles.in/3-ways-to-capture-http-password-in-network-pc/
+
 
 
 ## HTB Maquinas resueltas 
