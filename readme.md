@@ -5,7 +5,7 @@
 
 Pentesting Cheatsheets - https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
-tips aplicables a todo - https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
+tips tipicos pentest   - https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
 
 Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
