@@ -9,6 +9,19 @@ tips aplicables a todo - https://medium.com/bug-bounty-hunting/beginner-tips-to-
 
 Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
+Recopilacion videos(EN)- https://www.youtube.com/user/webpwnized/playlists
+
+### Relativos a OSCP ( No Automatizacion de procesos )
+
+https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
+
+https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97
+
+https://sushant747.gitbooks.io/total-oscp-guide/common_web-services.html
+
+https://www.pathtoroot.net/l/zero-to-oscp-hero-pwk-course-week-1/
+
+https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e
 
 ### Information Gathering/Reconnaissance
 
@@ -16,7 +29,7 @@ https://github.com/leebaird/discover
 
 https://bitvijays.github.io/blog/2015/04/09/learning-from-the-field-intelligence-gathering/
 
-https://netcraft.com/
+https://github.com/ibr2/pwk-cheatsheet/blob/master/README.md
 
 http://www.hackcave.net/2015/11/the-basics-of-penetration-testing.html
 
@@ -111,6 +124,9 @@ https://github.com/fuzzdb-project/fuzzdb
 
 https://github.com/danielmiessler/SecLists
 
+http://www.fuzzysecurity.com/tutorials/16.html
+
+
 ### General Notes
 
 http://blog.knapsy.com/blog/2014/10/07/basic-shellshock-exploitation/
@@ -159,7 +175,6 @@ http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.h
 
 http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
 
-
 ### Windows Post-Exploitation
 
 https://github.com/gentilkiwi/mimikatz/releases/
@@ -203,6 +218,12 @@ http://www.blackhillsinfosec.com/?p=5824
 https://www.commonexploits.com/unquoted-service-paths/
 
 https://github.com/abatchy17/WindowsExploits
+
+http://it-ovid.blogspot.com/2012/02/windows-privilege-escalation.html
+
+https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
+
+https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
 
 ### Linux Post-Exploitation
 
@@ -320,6 +341,11 @@ https://github.com/cr0hn/nosqlinjection_wordlists
 https://blog.scrt.ch/2013/03/24/mongodb-0-day-ssji-to-rce/
 
 https://websec.ca/kb/sql_injection#MSSQL_Default_Databases
+
+### Steganography
+
+http://0xc0ffee.io/blog/tu-ctf2017-worth-a-thousand-words
+
 
 ## HTB Maquinas resueltas 
 
