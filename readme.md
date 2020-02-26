@@ -1,16 +1,16 @@
 
-# Sitios Web de Referencia o Consulta 
+## Sitios Web de Referencia o Consulta 
 
-## Pentest 
+### Pentest 
 
 Pentesting Cheatsheets - https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
 tips aplicables a todo - https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
 
-Recopilacion variada   - https://bitvijays.github.io/LFC-VulnerableMachines.html
+Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
 
-## Information Gathering/Reconnaissance
+### Information Gathering/Reconnaissance
 
 https://github.com/leebaird/discover
 
@@ -26,6 +26,7 @@ http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
 
 
 ### WebShells and Backdoors  
+
 http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 https://highon.coffee/blog/reverse-shell-cheat-sheet/
@@ -46,7 +47,7 @@ http://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-
 
 http://securityweekly.com/2011/10/23/python-one-line-shell-code/
 
-## Buffers Overflows
+### Buffers Overflows
 
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
 
@@ -145,6 +146,26 @@ https://blog.propriacausa.de/wp-content/uploads/2016/07/oscp_notes.html
 
 https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/
 
+## Jailed Shell Escape
+http://netsec.ws/?p=337
+
+https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
+
+https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells
+
+http://airnesstheman.blogspot.ca/2011/05/breaking-out-of-jail-restricted-shell.html
+
+http://securebean.blogspot.ca/2014/05/escaping-restricted-shell_3.html
+
+## Linux Post-Exploitation
+
+https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+
+https://github.com/huntergregal/mimipenguin
+
+https://github.com/mubix/post-exploitation/wiki/Linux-Post-Exploitation-Command-List
+
+## Linux Privilege Escalation
 
 
 ## HTB Maquinas resueltas 
