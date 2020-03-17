@@ -12,8 +12,6 @@ tips tipicos pentest   - https://medium.com/bug-bounty-hunting/beginner-tips-to-
 Tecnicas variadas      - https://bitvijays.github.io/LFC-VulnerableMachines.html
 
 Recopilacion videos(EN)- https://www.youtube.com/user/webpwnized/playlists
-
- Windows CheatSheet    - https://morph3sec.com/2019/07/16/Windows-Red-Team-Cheat-Sheet/
  
  windows Cheatsheet    - https://morph3sec.com/2019/07/16/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/
 
